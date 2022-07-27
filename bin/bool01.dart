@@ -9,7 +9,7 @@
   */
 
 void main() {
-  print(func(2, 2));
+  print(func(3, 3));
 }
 
 bool func(int a, int b) {

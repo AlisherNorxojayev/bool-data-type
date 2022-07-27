@@ -8,7 +8,7 @@
     */
 
 void main() {
-  print(func(3));
+  print(func(5));
 }
 
 bool func(int a) {
